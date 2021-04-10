@@ -38,7 +38,11 @@
 
 .watch a {
     text-decoration: none;
-    color: blue;
+    color: brown;
     position: relative;
+    font-weight: bolder;
 }
 
+.watch a:hover {
+    color: white;
+}
